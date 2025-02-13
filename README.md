@@ -1,4 +1,4 @@
-![Banner de Isaias](https://github.com/isaias65/isaias65/assets/banner.png)
+![Banner de Isaias](https://github.com/isaias65/isaias65/blob/main/assets/banner.png)
 ## 💻 Sobre Mí
 Me encanta transformar ideas en aplicaciones web interactivas, dinámicas y accesibles. Disfruto diseñar interfaces atractivas y fluidas, optimizadas para cualquier dispositivo, garantizando siempre una experiencia intuitiva, moderna y envolvente para cada usuario.
 
